@@ -3,7 +3,7 @@ package app;
 public class TestApp {
 	
 	public static void main(String[] args) {
-		System.out.println("各位有看到嗎?");
+		System.out.println("皜祈岫UTF8");
 	}
 
 }
