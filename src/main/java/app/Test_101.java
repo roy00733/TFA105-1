@@ -6,6 +6,8 @@ public class Test_101 {
 		System.out.println("自動更新實在是神奇了!");
 		System.out.println("!");
 		System.out.println("************");
+	
+
 		
 
 	}
