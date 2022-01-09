@@ -6,5 +6,6 @@ public class TestNick {
 		System.out.println("Branch");
 		System.out.println("Branch2");
 		System.out.println("Branch3");
+		System.out.println("Branch5");
 	}
 }
