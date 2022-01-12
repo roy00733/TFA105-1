@@ -1,3 +1,5 @@
+package Chiaying;
+
 //package servlet_examples;
 
 import java.io.*;
@@ -23,9 +25,9 @@ public class HelloWorld extends HttpServlet {
 		out.println("<HTML>");
 		out.println("<HEAD><TITLE>Hello World</TITLE></HEAD>");
 		out.println("<BODY>");
-		out.println("<BIG>Hello World , 世界你好1!</BIG>="+(++count));
+		out.println("<BIG>Hello World , 嚙瑾嚙褕你嚙緯1!</BIG>="+(++count));
 		
-		//		out.println("<BIG>Hello World , 世界你好!</BIG>="+(++count));
+		//		out.println("<BIG>Hello World , 嚙瑾嚙褕你嚙緯!</BIG>="+(++count));
 		out.println("</BODY></HTML>");
 	}
 }
