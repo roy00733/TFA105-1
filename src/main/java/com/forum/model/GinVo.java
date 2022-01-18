@@ -1,4 +1,4 @@
-package Gin;
+package com.forum.model;
 
 public class GinVo {
 	public static void main (String[] args ) {
